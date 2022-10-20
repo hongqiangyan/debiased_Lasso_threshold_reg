@@ -13,4 +13,4 @@ This repository contains the replication material for the simulations and the em
 
 The material is divided between 2 files:
 
- -**tlas.R** contains the code for the thresholded Lasso and the simulations. **xp_XXX.R** contain the setup and call to *ttlas* for the experiments.
+ -**tlas.R** contains the code for the thresholded Lasso and the simulations. **tlastest_synth.R** contain the setup and call to *ttlas* for the experiments.
