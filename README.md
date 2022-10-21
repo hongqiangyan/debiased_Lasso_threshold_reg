@@ -17,4 +17,4 @@ The implementation of the desparsified Lasso for linear model is inspired by the
 
 The material is divided between 2 files:
 
- -**tlas_inference.R** contains the code for the desparsified Lasso for threshold regression models and the simulations. **tlastest_synth.R** contain the setup and call to *ttlas* for the experiments.
+ -**tlas_inference.R** contains the code for the desparsified Lasso for threshold regression models and the simulations. **tlastest_synth.R** contain the setup and call to *tlas_inference* for the experiments.
