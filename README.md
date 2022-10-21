@@ -9,7 +9,7 @@ Maintainer: Hongqiang Yan (hyan6@ncsu.edu)
 Date: 10/20/2022
 
 
-This repository contains the replication material for the simulations and the empirical application in   [__"Uniform Inference for High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Uniform_Inference_in_High_Dimensional_Threshold_Regression_Models.pdf). All the computations are carried using *R* package for easy replication. 
+This repository contains the replication material for the simulations in   [__"Uniform Inference for High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Uniform_Inference_in_High_Dimensional_Threshold_Regression_Models.pdf). All the computations are carried using *R* package for easy replication. 
 
 We investigate the finite sample properties of the desparsified Lasso for threshold regression models estimator and compare it to the desparsified Lasso estimator of van de Geer et al. (2014)
 
