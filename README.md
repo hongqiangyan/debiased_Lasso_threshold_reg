@@ -13,7 +13,7 @@ This repository contains the replication material for the simulations in   [__"U
 
 We investigate the finite sample properties of the desparsified Lasso for threshold regression models estimator and compare it to the desparsified Lasso estimator of van de Geer et al. (2014)
 
-The implementation of the desparsified Lasso for linear model is inspired by the publicly available code at https://web.stanford.edu/~montanar/sslasso/code.html. We also modify code of Callot et al. (2017) at https://github.com/lcallot/ttlas to our procedures.
+The implementation of the desparsified Lasso for linear model is inspired by the publicly available code at https://web.stanford.edu/~montanar/sslasso/code.html. We also  adapt the code of Callot et al. (2017) at https://github.com/lcallot/ttlas to our purpose.
 
 The material is divided between 2 files:
 
