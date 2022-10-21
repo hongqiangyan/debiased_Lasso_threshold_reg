@@ -15,6 +15,6 @@ We investigate the finite sample properties of the desparsified Lasso for thresh
 
 The implementation of the desparsified Lasso for linear model is inspired by the publicly available code at https://web.stanford.edu/~montanar/sslasso/code.html. We also  adapt the code of Callot et al. (2017) at https://github.com/lcallot/ttlas to our purpose.
 
-The material is divided between 2 files:
+The material has 2 files:
 
  -**tlas_inference.R** contains the code for the desparsified Lasso for threshold regression models and the simulations. **tlastest_synth.R** contain the setup and call to *tlas_inference* for the experiments.
