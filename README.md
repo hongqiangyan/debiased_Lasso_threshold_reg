@@ -1,4 +1,4 @@
-# Replication material for:  ["Uniform Inference for High-dimensional Threshold Regression (Job Market Paper)"](https://hongqiangyan.github.io/files/Uniform_Inference_in_High_Dimensional_Threshold_Regression_Models.pdf) 
+# Replication material for:  ["Uniform Inference for High-dimensional Threshold Regression"](https://hongqiangyan.github.io/files/Uniform_Inference_in_High_Dimensional_Threshold_Regression_Models.pdf) 
 ### Hongqiang Yan
 
 
